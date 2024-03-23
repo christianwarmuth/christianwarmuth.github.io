@@ -1,5 +1,5 @@
 window.addEventListener("scroll", updateProgress);
-    
+
 progressBar = document.getElementById("progressBar");
 
 scrollProgress = document.getElementById("progressIndicator");
